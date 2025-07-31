@@ -1,4 +1,4 @@
-# python-exercicios
+
 # 🐍 Soluções de Exercícios em Python
 
 Este repositório contém minhas soluções para os exercícios de Python propostos no repositório do [Bruninho95/exercicios_python](https://github.com/Bruninho95/exercicios_python).  
@@ -31,7 +31,6 @@ Você pode clonar este repositório para acompanhar as soluções:
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-##   Autor
-Feito com dedicação por Jessica Persio ✨
+✍️ Autor
+Feito com dedicação por Jessica Persio 
 Baseado nos exercícios de Bruninho95
-
