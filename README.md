@@ -1,7 +1,7 @@
 
 #  Soluções de Exercícios em Python
 
-Este repositório contém minhas soluções para os exercícios de Python propostos no repositório do [Bruninho95](https://github.com/Bruninho95/exercicios_python).  
+Este repositório contém minhas soluções para os exercícios de Python propostos no repositório do [Rafael Morán](https://github.com/rmveiga/exercicios_python?tab=readme-ov-file#b%C3%A1sico).  
 A ideia é praticar a linguagem Python e evoluir meus conhecimentos resolvendo desafios práticos.
 
 ##  Sobre os exercícios
@@ -35,7 +35,7 @@ git clone https://github.com/jessicapersio/python-exercicios
 Desenvolvido com 💻 + ☕ por [Jessica Persio](https://github.com/jessicapersio)
 
  Exercícios baseados no repositório muito massa do
-[Bruninho95](https://github.com/Bruninho95/exercicios_python) — obrigado por compartilhar! 🙌
+[Rafael Morán](https://github.com/rmveiga/exercicios_python?tab=readme-ov-file#b%C3%A1sico) — obrigado por compartilhar! 🙌
 
 
 
