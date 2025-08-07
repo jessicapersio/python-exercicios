@@ -6,9 +6,9 @@ notas = []
 
 for i in range(4):
     notas.append(float(input(f'Digite sua nota: ')))
-    7
-soma = sum(notas)/4
+    
+media = sum(notas)/4
 minimo = min(notas)
 maximo = max(notas)
-print(f'A média das suas notas é {soma} a nota máxima é {maximo} e a mínima é {minimo}')
+print(f'A média das suas notas é {media} a nota máxima é {maximo} e a mínima é {minimo}')
    
